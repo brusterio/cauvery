@@ -17,3 +17,5 @@ Expected contributions are:
 - Improve accuracy/adding in-depth data, numbers and facts
 - extending the data
 - and anything that would help improve the project.
+
+Thanks.
