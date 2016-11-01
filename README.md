@@ -10,3 +10,10 @@ Motive will be to create awareness and stop the violence (improve the friendline
 * Anybody can contribute to the project but please do not reuse or share the contents elsewhere.
 
 Expected contributions are:
+
+- Corrections to the existing data
+- Improvements to existing data
+- Adding trustworthy sources to the part(s) of data/information
+- Improve accuracy/adding in-depth data, numbers and facts
+- extending the data
+- and anything that would help improve the project.
