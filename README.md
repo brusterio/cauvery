@@ -8,3 +8,5 @@ A website about the cauvery issue that will expose whatever so far happened on t
 Motive will be to create awareness and stop the violence (improve the friendliness) and unwanted protests among the people/groups of the states involved. And thereby to suggest a possible and perfect solution(s) for the conflict.
 
 * Anybody can contribute to the project but please do not reuse or share the contents elsewhere.
+
+Expected contributions are:
